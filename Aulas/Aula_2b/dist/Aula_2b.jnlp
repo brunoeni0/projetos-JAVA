@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Aula_2b.jnlp">
+  <information>
+    <title>Aula_2b</title>
+    <vendor>Bruno</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Aula_2b.jar" size="2776" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="aula_2b.Aula_2b"  name="Aula_2b" />
+  <update check="always"/>
+</jnlp>
